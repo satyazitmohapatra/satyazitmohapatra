@@ -1,94 +1,129 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Satyajit%20Mohapatra&fontSize=70&animation=fadeIn&fontAlignY=38" width="100%" />
-
-  <h3>🚀 Aspiring MLOps Engineer & Passionate about ML Infrastructure </h3>
-  
-  <p align="center">
-    <a href="https://linkedin.com/in/satyazitmohapatra"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://github.com/satyazitmohapatra"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  </p>
-
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=Data+Science+Enthusiast;Full-Stack+Next.js+Developer;DevOps+%26+Cloud+Explorer;Competitive+Programmer" alt="Typing SVG" />
+  <!-- Aesthetic AI/ML Looping GIF -->
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="220" />
 </div>
 
----
+<br>
 
-### 💫 About Me
-
-- 🎓 **Education:** 3rd Year B.Tech Student specializing in **Computer Science & Engineering (Data Science)**.
-- 🎯 **Career Goal:** Rigorously building toward a high-level **AI Engineering** role by 2028.
-- 💡 **Interests:** Deeply passionate about the mathematics behind machine learning, model optimization, robust system designs, and building intelligent web systems.
-- 🛠️ **Current Focus:** Cracking Data Structures & Algorithms (DSA), mastering MLOps pipelines, and expanding full-stack capabilities.
-
----
-
-### 🛠️ Tech Stack & Skills
-
-#### 🤖 Machine Learning & Data Science
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<p align="center">
+  <!-- Minimalist Floating Social Badges -->
+  <a href="https://www.linkedin.com/in/satyajit-mohapatra/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0D1117&logoColor=0077B5&style=for-the-badge" height="35" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:mohapatrasatyajit2006@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=0D1117&logoColor=EA4335&style=for-the-badge" height="35" />
+  </a>
 </p>
-
-#### 🌐 Full-Stack Web Development
-<p align="left">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-</p>
-
-#### ☁️ Cloud, DevOps & Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Netlify-00C8B5?style=for-the-badge&logo=netlify&logoColor=white" />
-</p>
-
-#### 🧠 Problem Solving & Core Fundamentals
-<p align="left">
-  <img src="https://img.shields.io/badge/Data_Structures-💥-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Algorithms-⚙️-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Competitive_Programming-💻-purple?style=for-the-badge" />
-</p>
-
----
-
-### 🚀 Highlighted Projects
-
-* **CityZen 🏙️** — A robust grievance reporting application developed with a dedicated team to streamline local municipal and community issue handling efficiently.
-* **Laptop Price Predictor 💻** — A machine learning project built utilizing supervised learning models to forecast accurate hardware pricing metrics based on specifications.
-* **Cloud Infrastructure Deployments ☁️** — Actively orchestrating and spinning up platforms (such as delivery application clones) utilizing customized resource splits on Oracle Cloud Always Free ARM instances.
-
----
-
-### 📊 GitHub Metrics & Insights
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=satyazitmohapatra&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Satyajit's GitHub Stats" height="190" />
-      </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=satyazitmohapatra&theme=tokyonight&hide_border=true" alt="Satyajit's GitHub Streak" height="190" />
-      </td>
-    </tr>
-  </table>
-  
-  <br />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyazitmohapatra&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" width="450" />
+  <!-- Premium Modern Typing Animation -->
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=800&size=30&pause=1000&color=7CFFA2&center=true&vCenter=true&width=900&lines=Hey+there;I%27m+SATYAJIT+MOHAPATRA+(aka+Kunal);Aspiring+Machine+Learning+Engineer;Turning+Raw+Data+Into+Actionable+Intelligence" alt="Typing SVG" />
 </div>
 
----
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="70%" />
+</div>
+
+<br>
+
+## 🧠 The Mind Behind The Models
+<table border="0" width="100%">
+  <tr>
+    <td width="60%">
+      <p>I am an aspiring Machine Learning Engineer pursuing a B.Tech in Computer Science and Engineering (Data Science) at DRIEMS University[cite: 1].</p>
+      <p>I am highly skilled in Python, Machine Learning, and data-driven web applications[cite: 1]. I thrive on experienced in developing predictive models, performing exploratory data analysis, and integrating ML solutions into interactive web platforms using Flask and Streamlit[cite: 1]. Beyond the code, I'm aiming for industry readiness by 2028 with a heavy focus on mastering Data Structures and Algorithms (DSA), System Design, and building Agentic AI.</p>
+      <br>
+      <ul>
+        <li>🔥 <b>Current Focus:</b> Deepening knowledge in MLOps, Scalable System Design, Distributed Computing, and AI Ethics[cite: 1].</li>
+        <li>💡 <b>Interests:</b> Competitive programming, advanced model optimization[cite: 1], and exploring world geography!</li>
+        <li>⚡ <b>Fun Fact:</b> I love integrating heavy ML models into seamless web interfaces so anyone (even my mom!) can interact with complex AI easily.</li>
+        <li>👀 <b>Profile Views:</b> <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=7CFFA2&style=flat-square" align="center" /></li>
+      </ul>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://media.giphy.com/media/qgQUggCGTjyNy/giphy.gif" width="100%" style="border-radius:15px;"/>
+    </td>
+  </tr>
+</table>
+
+<br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=7CFFA2&height=60&section=header&text=💻%20Tech%20Universe&fontSize=35&fontAlignY=40&fontColor=ffffff" />
+</div>
+
+<p align="center">
+  <i><font color="#8b949e">"Optimizing computational efficiency and applying advanced data structures to solve complex algorithmic challenges."[cite: 1]</font></i>
+</p>
+<br>
+
+<table align="center" border="0" width="100%" style="background-color: transparent;">
+  <tr>
+    <td align="center" width="33%" valign="top">
+      <!-- Core ML Header -->
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=7CFFA2&center=true&vCenter=true&width=200&lines=Core+%26+ML" alt="Core ML" />
+      <br><br>
+      <img src="https://skillicons.dev/icons?i=python,java,c,sklearn,pandas,mysql&theme=dark&perline=3" style="box-shadow: 0px 4px 15px rgba(124, 255, 162, 0.2);" />
+    </td>
+    <td align="center" width="33%" valign="top">
+      <!-- Full Stack Header -->
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00F0FF&center=true&vCenter=true&width=200&lines=Web+%26+Frontend" alt="Web" />
+      <br><br>
+      <img src="https://skillicons.dev/icons?i=nextjs,tailwind,html,css,flask,vscode&theme=dark&perline=3" style="box-shadow: 0px 4px 15px rgba(0, 240, 255, 0.2);" />
+    </td>
+    <td align="center" width="33%" valign="top">
+      <!-- DevOps Header -->
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=FF0055&center=true&vCenter=true&width=200&lines=Cloud+%26+DevOps" alt="Cloud" />
+      <br><br>
+      <img src="https://skillicons.dev/icons?i=azure,docker,kubernetes,git,github,linux&theme=dark&perline=3" style="box-shadow: 0px 4px 15px rgba(255, 0, 85, 0.2);" />
+    </td>
+  </tr>
+</table>
+
+<br><br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:FF0055,50:00F0FF,100:7CFFA2&height=120&section=header&text=Featured%20Projects&fontSize=40&fontAlignY=35&fontColor=ffffff&desc=Building%20Solutions%20That%20Matter&descAlignY=65&descAlign=50" width="100%" />
+</div>
+
+<br>
+
+### 🚀 Innovation Highlight Reel
+> **CityZen - Civic Issue Reporting Platform:** Engineered a crowd-sourced web platform for reporting and tracking civic issues[cite: 1]. Utilized Flask and MySQL for backend integration and data visualization of community reports[cite: 1].
+
+> **Laptop Price Predictor:** Built a predictive model to estimate laptop prices based on hardware configurations[cite: 1]. Applied preprocessing techniques to handle mixed categorical and numerical data[cite: 1].
+
+> **Health Diagnostic Hub:** Developed a centralized web application hosting multiple ML models for disease prediction[cite: 1]. Implemented predictive algorithms to analyze health parameters and deliver real-time diagnostic insights[cite: 1]. Optimized model validation and interface performance for enhanced user experience[cite: 1].
+
+<br>
+
+<div align="center">
+  <!-- Animated Neon Header -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=📊+GitHub+Insights;⚡+Code+Analytics" alt="Insights" />
+</div>
+
+<br>
+
+<p align="center">
+  <!-- Replace YOUR_GITHUB_USERNAME with your actual username -->
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&theme=tokyonight&bg_color=00000000&show_icons=true&hide_border=true&count_private=true" alt="Stats" height="195px"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&background=00000000&hide_border=true" alt="Streak" height="195px"/>
+</p>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="80%" />
+</div>
+
+<br>
+
+### 📈 Contribution Activity Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="100%" />
+</div>
+
+<hr>
+
+<div align="center">
+  <p><b>Engineered for impact by SATYAJIT MOHAPATRA</b></p>
 </div>
