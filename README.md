@@ -1,6 +1,6 @@
 <div align="center">
-  <!-- Aesthetic AI/ML Looping GIF -->
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="220" />
+  <!-- Futuristic IT/AI Looping GIF -->
+  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="220" />
 </div>
 
 <br>
@@ -26,22 +26,23 @@
 
 <br>
 
-## 🧠 The Mind Behind The Models
+## 🤖 The Mind Behind The Models
 <table border="0" width="100%">
   <tr>
     <td width="60%">
-      <p>I am an aspiring Machine Learning Engineer pursuing a B.Tech in Computer Science and Engineering (Data Science) at DRIEMS University[cite: 1].</p>
-      <p>I am highly skilled in Python, Machine Learning, and data-driven web applications[cite: 1]. I thrive on experienced in developing predictive models, performing exploratory data analysis, and integrating ML solutions into interactive web platforms using Flask and Streamlit[cite: 1]. Beyond the code, I'm aiming for industry readiness by 2028 with a heavy focus on mastering Data Structures and Algorithms (DSA), System Design, and building Agentic AI.</p>
+      <p>I am an aspiring Machine Learning Engineer pursuing a B.Tech in Computer Science and Engineering (Data Science) at DRIEMS University.</p>
+      <p>I am highly skilled in Python, Machine Learning, and data-driven web applications. I thrive on developing predictive models, performing exploratory data analysis, and integrating ML solutions into interactive web platforms using Flask and Streamlit. Beyond the code, I'm aiming for industry readiness by 2028 with a heavy focus on mastering Data Structures and Algorithms (DSA), System Design, and building Agentic AI.</p>
       <br>
       <ul>
-        <li>🔥 <b>Current Focus:</b> Deepening knowledge in MLOps, Scalable System Design, Distributed Computing, and AI Ethics[cite: 1].</li>
-        <li>💡 <b>Interests:</b> Competitive programming, advanced model optimization[cite: 1], and exploring world geography!</li>
+        <li>🔥 <b>Current Focus:</b> Deepening knowledge in MLOps, Scalable System Design, Distributed Computing, and AI Ethics.</li>
+        <li>💡 <b>Interests:</b> Competitive programming, advanced model optimization, and exploring world geography!</li>
         <li>⚡ <b>Fun Fact:</b> I love integrating heavy ML models into seamless web interfaces so anyone (even my mom!) can interact with complex AI easily.</li>
         <li>👀 <b>Profile Views:</b> <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=7CFFA2&style=flat-square" align="center" /></li>
       </ul>
     </td>
     <td width="40%" align="center">
-      <img src="https://media.giphy.com/media/qgQUggCGTjyNy/giphy.gif" width="100%" style="border-radius:15px;"/>
+      <!-- Coding Robot GIF -->
+      <img src="https://media.giphy.com/media/urvsFBDfR6N32/giphy.gif" width="100%" style="border-radius:15px;"/>
     </td>
   </tr>
 </table>
@@ -53,7 +54,7 @@
 </div>
 
 <p align="center">
-  <i><font color="#8b949e">"Optimizing computational efficiency and applying advanced data structures to solve complex algorithmic challenges."[cite: 1]</font></i>
+  <i><font color="#8b949e">"Optimizing computational efficiency and applying advanced data structures to solve complex algorithmic challenges."</font></i>
 </p>
 <br>
 
@@ -89,11 +90,11 @@
 <br>
 
 ### 🚀 Innovation Highlight Reel
-> **CityZen - Civic Issue Reporting Platform:** Engineered a crowd-sourced web platform for reporting and tracking civic issues[cite: 1]. Utilized Flask and MySQL for backend integration and data visualization of community reports[cite: 1].
+> **CityZen - Civic Issue Reporting Platform:** Engineered a crowd-sourced web platform for reporting and tracking civic issues. Utilized Flask and MySQL for backend integration and data visualization of community reports.
 
-> **Laptop Price Predictor:** Built a predictive model to estimate laptop prices based on hardware configurations[cite: 1]. Applied preprocessing techniques to handle mixed categorical and numerical data[cite: 1].
+> **Laptop Price Predictor:** Built a predictive model to estimate laptop prices based on hardware configurations. Applied preprocessing techniques to handle mixed categorical and numerical data.
 
-> **Health Diagnostic Hub:** Developed a centralized web application hosting multiple ML models for disease prediction[cite: 1]. Implemented predictive algorithms to analyze health parameters and deliver real-time diagnostic insights[cite: 1]. Optimized model validation and interface performance for enhanced user experience[cite: 1].
+> **Health Diagnostic Hub:** Developed a centralized web application hosting multiple ML models for disease prediction. Implemented predictive algorithms to analyze health parameters and deliver real-time diagnostic insights. Optimized model validation and interface performance for enhanced user experience.
 
 <br>
 
@@ -125,5 +126,8 @@
 <hr>
 
 <div align="center">
+  <!-- Server/Database IT GIF -->
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="150" style="border-radius:50%">
+  <br><br>
   <p><b>Engineered for impact by SATYAJIT MOHAPATRA</b></p>
 </div>
