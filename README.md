@@ -17,7 +17,7 @@
 
 <div align="center">
   <!-- Premium Modern Typing Animation -->
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=800&size=30&pause=1000&color=7CFFA2&center=true&vCenter=true&width=900&lines=Hey+there;I%27m+SATYAJIT+MOHAPATRA+(aka+Kunal);Aspiring+Machine+Learning+Engineer;Turning+Raw+Data+Into+Actionable+Intelligence" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=800&size=30&pause=1000&color=7CFFA2&center=true&vCenter=true&width=900&lines=Hey+there;I%27m+SATYAJIT+MOHAPATRA+(aka+Kunal);Aspiring+Machine+Learning+Engineer;Focusing+on+MLOps+%26+Cloud+Infrastructure" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -30,14 +30,14 @@
 <table border="0" width="100%">
   <tr>
     <td width="60%">
-      <p>I am an aspiring Machine Learning Engineer pursuing a B.Tech in Computer Science and Engineering (Data Science) at DRIEMS University.</p>
-      <p>I am highly skilled in Python, Machine Learning, and data-driven web applications. I thrive on developing predictive models, performing exploratory data analysis, and integrating ML solutions into interactive web platforms using Flask and Streamlit. Beyond the code, I'm aiming for industry readiness by 2028 with a heavy focus on mastering Data Structures and Algorithms (DSA), System Design, and building Agentic AI.</p>
+      <p>I am an Aspiring Machine Learning Engineer with a growing focus on MLOps, cloud infrastructure, and application deployment[cite: 2].</p>
+      <p>I am skilled in Python, Machine Learning, Flask, Streamlit, SQL, and Git for building end-to-end data-driven applications[cite: 2]. I am highly experienced in predictive modeling and integrating ML models into interactive web applications[cite: 2]. When building out the frontend of these robust systems, Next.js is my framework of choice to ensure peak performance and seamless user experiences.</p>
       <br>
       <ul>
-        <li>🔥 <b>Current Focus:</b> Deepening knowledge in MLOps, Scalable System Design, Distributed Computing, and AI Ethics.</li>
-        <li>💡 <b>Interests:</b> Competitive programming, advanced model optimization, and exploring world geography!</li>
-        <li>⚡ <b>Fun Fact:</b> I love integrating heavy ML models into seamless web interfaces so anyone (even my mom!) can interact with complex AI easily.</li>
-        <li>👀 <b>Profile Views:</b> <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=7CFFA2&style=flat-square" align="center" /></li>
+        <li>🔥 <b>Current Focus:</b> I am passionate about cloud infrastructure, containerization, CI/CD pipelines and scalable application deployment[cite: 2].</li>
+        <li>💡 <b>Interests:</b> MLOps, Scalable System Design, Distributed Computing, AI Ethics, Open-Source Development, Model Optimization[cite: 2].</li>
+        <li>⚡ <b>Fun Fact:</b> I can flawlessly identify world flags and have a deep fascination with regional geography!</li>
+        <li>👀 <b>Profile Views:</b> <img src="https://komarev.com/ghpvc/?username=Satyajit-Mohapatra&color=7CFFA2&style=flat-square" align="center" /></li>
       </ul>
     </td>
     <td width="40%" align="center">
@@ -54,7 +54,7 @@
 </div>
 
 <p align="center">
-  <i><font color="#8b949e">"Optimizing computational efficiency and applying advanced data structures to solve complex algorithmic challenges."</font></i>
+  <i><font color="#8b949e">"Architecting intelligent solutions from raw data to scalable cloud deployments."</font></i>
 </p>
 <br>
 
@@ -90,11 +90,12 @@
 <br>
 
 ### 🚀 Innovation Highlight Reel
-> **CityZen - Civic Issue Reporting Platform:** Engineered a crowd-sourced web platform for reporting and tracking civic issues. Utilized Flask and MySQL for backend integration and data visualization of community reports.
 
-> **Laptop Price Predictor:** Built a predictive model to estimate laptop prices based on hardware configurations. Applied preprocessing techniques to handle mixed categorical and numerical data.
+> **Food Delivery Platform:** Developed a full-stack food delivery application featuring user authentication, restaurant listings, menu management, cart functionality, and order tracking[cite: 2]. Built RESTful APIs for seamless communication between frontend and backend services[cite: 2]. Integrated a relational database for secure management of users, restaurants, and orders[cite: 2]. Containerized the application using Docker and deployed it on Microsoft Azure with CI/CD for automated application delivery[cite: 2].
 
-> **Health Diagnostic Hub:** Developed a centralized web application hosting multiple ML models for disease prediction. Implemented predictive algorithms to analyze health parameters and deliver real-time diagnostic insights. Optimized model validation and interface performance for enhanced user experience.
+> **CityZen - Civic Issue Reporting Platform:** Engineered a crowd-sourced web platform for reporting and tracking civic issues[cite: 2]. Utilized Flask and MySQL for backend integration and data visualization of community reports[cite: 2].
+
+> **Health Diagnostic Hub:** Developed a centralized web application hosting multiple ML models for disease prediction[cite: 2]. Implemented predictive algorithms to analyze health parameters and deliver real-time diagnostic insights[cite: 2]. Optimized model validation and interface performance for enhanced user experience[cite: 2].
 
 <br>
 
@@ -106,10 +107,9 @@
 <br>
 
 <p align="center">
-  <!-- Replace YOUR_GITHUB_USERNAME with your actual username -->
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&theme=tokyonight&bg_color=00000000&show_icons=true&hide_border=true&count_private=true" alt="Stats" height="195px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Satyajit-Mohapatra&theme=tokyonight&bg_color=00000000&show_icons=true&hide_border=true&count_private=true" alt="Stats" height="195px"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&background=00000000&hide_border=true" alt="Streak" height="195px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Satyajit-Mohapatra&theme=tokyonight&background=00000000&hide_border=true" alt="Streak" height="195px"/>
 </p>
 
 <div align="center">
@@ -120,7 +120,8 @@
 
 ### 📈 Contribution Activity Graph
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="100%" />
+  <!-- Real-time activity fetch via github-readme-activity-graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Satyajit-Mohapatra&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=7CFFA2&line=00F0FF&point=FF0055" width="100%" alt="Contribution Graph" />
 </div>
 
 <hr>
