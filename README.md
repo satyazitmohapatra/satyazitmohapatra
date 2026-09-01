@@ -366,18 +366,6 @@ Some real engineering facts:
 
 ---
 
-# 🏆 `ACHIEVEMENT_UNLOCKED`
-
-<div align="center">
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Satyajit-Mohapatra&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&column=7"/>
-
-</a>
-
-</div>
-
 ---
 
 # 🎮 `CHARACTER_STATS`
@@ -415,31 +403,6 @@ Some real engineering facts:
 ```
 
 ---
-
-# 🧪 `EXPERIMENTAL_LAB`
-
-This section is permanently under construction.
-
-Because apparently one project is never enough.
-
-```text
-┌──────────────────────────────────────────────┐
-│         NEXT EXPERIMENT INITIALIZING...     │
-├──────────────────────────────────────────────┤
-│ 🤖 AI Systems                               │
-│ ☁️ Cloud-Native Applications                │
-│ ⚙️ MLOps Pipelines                           │
-│ ☸️ Kubernetes Architecture                   │
-│ 📈 Intelligent Prediction Systems            │
-│ 🔥 Possibly something completely unnecessary │
-└──────────────────────────────────────────────┘
-```
-
----
-
-# 📡 `CONNECT_TO_SERVER`
-
-<div align="center">
 
 ### Want to build something ridiculous?
 
