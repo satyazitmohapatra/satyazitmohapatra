@@ -88,74 +88,61 @@ Because training a model in a notebook is cool.
 
 # ⚔️ `MY TECH ARSENAL`
 
-### 🧠 INTELLIGENCE DIVISION
+<div align="center">
 
-<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&pause=900&color=00F0FF&center=true&vCenter=true&width=850&lines=Weapons+Loaded...;Frameworks+Armed...;Cloud+Systems+Online...;Deployment+Protocols+Ready...;Satyajit+OS+Has+Entered+The+Battlefield+%F0%9F%98%88" />
 
-<img src="https://skillicons.dev/icons?i=python,java,c,sklearn,pandas,numpy,mysql&theme=dark&perline=7"/>
+<br><br>
 
-</p>
+### 🧠 LANGUAGES • DATA • MACHINE LEARNING
 
-**Primary weapons:**
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,sklearn,pandas,numpy,mysql&theme=dark&perline=8"/>
 
-`Python` `Scikit-Learn` `Pandas` `NumPy` `SQL`
+<br><br>
 
-**Typical workflow:**
+### 🌐 WEB • APPLICATION DEVELOPMENT
 
-```python
-data
-  ↓
-clean_the_chaos()
-  ↓
-feature_engineering()
-  ↓
-train_model()
-  ↓
-evaluate()
-  ↓
-deploy()
-  ↓
-pretend_everything_was_planned()
-```
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,tailwind,flask&theme=dark&perline=7"/>
 
----
+<br><br>
 
-### 🌐 APPLICATION DIVISION
+### 🐳 DEVOPS • CLOUD • INFRASTRUCTURE
 
-<p align="center">
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,azure,linux,git,github,githubactions,nginx&theme=dark&perline=8"/>
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,html,css,flask&theme=dark&perline=6"/>
+<br><br>
 
-</p>
+### 🗄️ DATABASE • TOOLS • ENGINEERING
 
-I enjoy turning:
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,vscode,postman,bash&theme=dark&perline=6"/>
 
-> **“It's just an ML model.”**
-
-into:
-
-> **“It's a fully deployed web application.”**
-
----
-
-### ☁️ CLOUD / DEVOPS DIVISION
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=azure,docker,kubernetes,linux,git,github&theme=dark&perline=6"/>
-
-</p>
-
-Current relationship status:
+<br><br>
 
 ```text
-Me ❤️ Kubernetes
-Kubernetes ❤️ YAML
-YAML ❤️ Indentation
-Indentation 💀 Me
+╔══════════════════════════════════════════════════════════════╗
+║                    ⚡ TECH LOADOUT ⚡                         ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                            ║
+║  🧠 AI / ML        Python • Scikit-Learn • Pandas • NumPy ║
+║  💻 Languages      Python • Java • C • C++                ║
+║  🌐 Web            React • Next.js • Flask • Tailwind     ║
+║  🐳 Containers     Docker                                  ║
+║  ☸️ Orchestration  Kubernetes                              ║
+║  ☁️ Cloud           Microsoft Azure                         ║
+║  🔄 CI/CD          GitHub Actions                           ║
+║  🗄️ Databases      MySQL • PostgreSQL • MongoDB            ║
+║  🐧 Systems        Linux • Bash                             ║
+║  🔧 Tools          Git • GitHub • VS Code • Postman         ║
+║                                                            ║
+║                  STATUS: FULLY ARMED 🚀                     ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
----
+<br>
+
+> **I don't collect technologies. I collect reasons to use them.** 😈
+
+</div>
 
 # 🧪 `PROJECT_LAB`
 
