@@ -1,150 +1,503 @@
 <div align="center">
-  <!-- Dynamic Futuristic Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:FF0055,50:00F0FF,100:7CFFA2&height=200&section=header&text=SATYAJIT%20MOHAPATRA&fontSize=50&fontAlignY=35&desc=Machine%20Learning%20%7C%20MLOps%20%7C%20Cloud&descAlignY=60&descSize=20&fontColor=ffffff" width="100%" />
+
+# ⚡ SATYAJIT MOHAPATRA ⚡
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:FF0055,25:7CFFA2,50:00F0FF,75:7C4DFF,100:FF0055&height=250&section=header&text=SATYAJIT%20MOHAPATRA&fontSize=52&fontAlignY=35&desc=MACHINE%20LEARNING%20%E2%80%A2%20MLOPS%20%E2%80%A2%20CLOUD%20%E2%80%A2%20ENGINEERING&descAlignY=58&descSize=19&fontColor=ffffff" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=2200&pause=600&color=00F0FF&center=true&vCenter=true&width=1000&lines=Booting+Satyajit.exe...;Loading+Machine+Learning+Brain...;Installing+Docker...;Deploying+to+Kubernetes...;Negotiating+with+Azure...;Debugging+Things+That+Worked+Yesterday...;ERROR%3A+Sleep+Not+Found;SYSTEM+READY+%F0%9F%A4%96" alt="Typing Animation"/>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Satyajit-Mohapatra&style=for-the-badge&color=00F0FF&label=PEOPLE+WHO+ACCIDENTALLY+FOUND+THIS+PROFILE"/>
+
+<br><br>
+
+<a href="https://www.linkedin.com/in/satyajit-mohapatra/" target="_blank">
+<img src="https://img.shields.io/badge/LINKEDIN-00F0FF?style=for-the-badge&logo=linkedin&logoColor=000000"/>
+</a>
+&nbsp;
+<a href="mailto:mohapatrasatyajit2006@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-FF0055?style=for-the-badge&logo=gmail&logoColor=ffffff"/>
+</a>
+&nbsp;
+<a href="https://github.com/Satyajit-Mohapatra" target="_blank">
+<img src="https://img.shields.io/badge/GITHUB-7CFFA2?style=for-the-badge&logo=github&logoColor=000000"/>
+</a>
+
 </div>
 
+---
+
+# 🧠 `SYSTEM_PROFILE`
+
+```text
+╔══════════════════════════════════════════════════════════════╗
+║                    SATYAJIT OS :: ONLINE                    ║
+╠══════════════════════════════════════════════════════════════╣
+║ Role        : Aspiring Machine Learning Engineer            ║
+║ Specialty   : ML + MLOps + Cloud Infrastructure             ║
+║ Runtime     : Python                                        ║
+║ Favorite     : Turning "it probably won't work" into "OH." ║
+║ Current Bug : Sleep.exe has stopped responding              ║
+║ Status       : ████████████████████████ 100% OPERATIONAL    ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+> **I build intelligent systems, deploy them into the cloud, and then spend an unreasonable amount of time making sure they don't explode.**
+
+I like working at the intersection of:
+
+**Machine Learning × Software Engineering × Cloud × MLOps**
+
+That means taking an idea from:
+
+`raw data → model → API → container → Kubernetes → cloud → production`
+
+Because training a model in a notebook is cool.
+
+**Making it survive production is cooler.**
+
+---
+
+# 🚨 `MISSION_CONTROL`
+
 <div align="center">
-  <!-- Premium Modern Typing Animation -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&pause=1000&color=00F0FF&center=true&vCenter=true&width=900&lines=Hey+there,+I'm+Kunal;Aspiring+Machine+Learning+Engineer;Focusing+on+MLOps+%26+Cloud+Infrastructure;Architecting+intelligent+solutions+from+raw+data" alt="Typing SVG" />
+
+### CURRENT OBJECTIVE
+
+```text
+        ┌──────────────────────────────────┐
+        │      BUILD SOMETHING INSANE      │
+        ├──────────────────────────────────┤
+        │                                  │
+        │  🤖 Machine Learning             │
+        │  ☁️  Cloud Infrastructure        │
+        │  🐳 Docker                       │
+        │  ☸️  Kubernetes                  │
+        │  🔄 CI/CD                        │
+        │  ⚙️  APIs                        │
+        │  📊 Data                         │
+        │                                  │
+        │        STATUS: IN PROGRESS       │
+        └──────────────────────────────────┘
+```
+
 </div>
+
+---
+
+# ⚔️ `MY TECH ARSENAL`
+
+### 🧠 INTELLIGENCE DIVISION
 
 <p align="center">
-  <!-- Minimalist Floating Social Badges -->
-  <a href="https://www.linkedin.com/in/satyajit-mohapatra/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0D1117&logoColor=00F0FF&style=for-the-badge" height="35" alt="LinkedIn"/>
-  </a>&nbsp;&nbsp;
-  <a href="mailto:mohapatrasatyajit2006@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=0D1117&logoColor=FF0055&style=for-the-badge" height="35" alt="Email"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://github.com/Satyajit-Mohapatra" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=0D1117&logoColor=7CFFA2&style=for-the-badge" height="35" alt="GitHub"/>
-  </a>
+
+<img src="https://skillicons.dev/icons?i=python,java,c,sklearn,pandas,numpy,mysql&theme=dark&perline=7"/>
+
 </p>
 
-<div align="center">
-  <!-- GitHub Trophies (Dynamically fetched) -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Satyajit-Mohapatra&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&column=6" alt="Trophies" />
-  </a>
-</div>
+**Primary weapons:**
 
-<br>
+`Python` `Scikit-Learn` `Pandas` `NumPy` `SQL`
 
-## 🤖 The Mind Behind The Models
+**Typical workflow:**
 
-<table border="0" width="100%" style="background-color: transparent;">
-  <tr>
-    <td width="65%">
-      <h3>Hello World! I'm an Aspiring ML Engineer 🚀</h3>
-      <p>I specialize in bridging the gap between raw data and scalable, interactive applications. My core focus is on <b>MLOps, cloud infrastructure, and application deployment</b>.</p>
-      <p>Whether I'm building predictive models in Python, spinning up RESTful APIs with Flask, or designing seamless user experiences with Next.js, I build systems engineered for impact.</p>
-      <br>
-      <ul>
-        <li>🔥 <b>Current Focus:</b> Cloud Infrastructure, Docker Containerization, and automated CI/CD Pipelines.</li>
-        <li>💡 <b>Interests:</b> Distributed Computing, AI Ethics, Open-Source Development, Model Optimization.</li>
-        <li>⚡ <b>Fun Fact:</b> I can flawlessly identify world flags and have a deep fascination with regional geography!</li>
-      </ul>
-      <br>
-      <p>
-        <img src="https://komarev.com/ghpvc/?username=Satyajit-Mohapatra&color=00F0FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-      </p>
-    </td>
-    <td width="35%" align="center">
-      <!-- Coding Robot GIF -->
-      <img src="https://media.giphy.com/media/urvsFBDfR6N32/giphy.gif" width="100%" style="border-radius:20px; box-shadow: 0 0 20px rgba(0, 240, 255, 0.4);"/>
-    </td>
-  </tr>
-</table>
+```python
+data
+  ↓
+clean_the_chaos()
+  ↓
+feature_engineering()
+  ↓
+train_model()
+  ↓
+evaluate()
+  ↓
+deploy()
+  ↓
+pretend_everything_was_planned()
+```
 
-<br>
+---
 
-<div align="center">
-  <h2>💻 Tech Universe</h2>
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="50%" />
-</div>
-
-<table align="center" border="0" width="100%" style="background-color: transparent;">
-  <tr>
-    <td align="center" width="33%" valign="top">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=7CFFA2&center=true&vCenter=true&width=200&lines=Core+%26+ML" alt="Core ML" />
-      <br><br>
-      <img src="https://skillicons.dev/icons?i=python,java,c,sklearn,pandas,mysql&theme=dark&perline=3" />
-    </td>
-    <td align="center" width="33%" valign="top">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00F0FF&center=true&vCenter=true&width=200&lines=Web+%26+Frontend" alt="Web" />
-      <br><br>
-      <img src="https://skillicons.dev/icons?i=nextjs,tailwind,html,css,flask,vscode&theme=dark&perline=3" />
-    </td>
-    <td align="center" width="33%" valign="top">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=FF0055&center=true&vCenter=true&width=200&lines=Cloud+%26+DevOps" alt="Cloud" />
-      <br><br>
-      <img src="https://skillicons.dev/icons?i=azure,docker,kubernetes,git,github,linux&theme=dark&perline=3" />
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<div align="center">
-  <h2>🚀 Featured Innovations</h2>
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="50%" />
-</div>
-
-<table border="0" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🍔 Food Delivery Platform</h3>
-      <p>A full-stack application featuring auth, restaurant listings, cart logic, and order tracking. Containerized via <b>Docker</b> and deployed on <b>Microsoft Azure</b> using automated CI/CD pipelines.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🏙️ CityZen</h3>
-      <p>A crowd-sourced civic issue reporting web platform. Engineered with <b>Flask</b> and <b>MySQL</b> to track, manage, and visualize community reports in real-time.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🩺 Health Diagnostic Hub</h3>
-      <p>A centralized web app hosting predictive machine learning models. Built to analyze health parameters and instantly deliver real-time diagnostic insights.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">✨ More in the Lab</h3>
-      <p>Continuously experimenting with <b>Next.js</b> frontends, <b>Kubernetes</b> orchestration, and optimizing scalable cloud architectures.</p>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<div align="center">
-  <h2>📊 GitHub Analytics & Activity</h2>
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="50%" />
-</div>
+### 🌐 APPLICATION DIVISION
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Satyajit-Mohapatra&theme=tokyonight&bg_color=00000000&show_icons=true&hide_border=true&count_private=true" alt="Stats" height="195px"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Satyajit-Mohapatra&theme=tokyonight&background=00000000&hide_border=true" alt="Streak" height="195px"/>
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,html,css,flask&theme=dark&perline=6"/>
+
 </p>
 
-<!-- The Legendary Contribution Snake -->
+I enjoy turning:
+
+> **“It's just an ML model.”**
+
+into:
+
+> **“It's a fully deployed web application.”**
+
+---
+
+### ☁️ CLOUD / DEVOPS DIVISION
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=azure,docker,kubernetes,linux,git,github&theme=dark&perline=6"/>
+
+</p>
+
+Current relationship status:
+
+```text
+Me ❤️ Kubernetes
+Kubernetes ❤️ YAML
+YAML ❤️ Indentation
+Indentation 💀 Me
+```
+
+---
+
+# 🧪 `PROJECT_LAB`
+
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Satyajit-Mohapatra/Satyajit-Mohapatra/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Satyajit-Mohapatra/Satyajit-Mohapatra/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Satyajit-Mohapatra/Satyajit-Mohapatra/output/github-contribution-grid-snake.svg" width="100%">
-  </picture>
+
+## 🍔 FOOD DELIVERY PLATFORM
+
+**FULL-STACK + CLOUD + CONTAINERIZATION**
+
+A complete food delivery ecosystem featuring authentication, restaurants, cart management, ordering and tracking.
+
+```text
+User
+ ↓
+Frontend
+ ↓
+API
+ ↓
+Database
+ ↓
+Docker
+ ↓
+Azure
+ ↓
+🚀 INTERNET
+```
+
+**Status:** `DEPLOYED`
+
+---
+
+## 🏙️ CITYZEN
+
+**CIVIC ISSUE REPORTING PLATFORM**
+
+A platform where citizens can report civic problems and track them through a centralized backend.
+
+```text
+Citizen
+   ↓
+Report Issue
+   ↓
+Flask API
+   ↓
+MySQL
+   ↓
+Management
+   ↓
+Problem gets a very long digital journey
+```
+
+**Tech:** `Flask + MySQL + Web`
+
+---
+
+## 🩺 HEALTH DIAGNOSTIC HUB
+
+**MACHINE LEARNING × WEB APPLICATION**
+
+A centralized application capable of serving predictive ML models and generating real-time insights from user-provided parameters.
+
+```text
+Input
+ ↓
+Feature Processing
+ ↓
+ML Model
+ ↓
+Prediction
+ ↓
+Human: "interesting..."
+```
+
+---
+
+## ♟️ CHESS AI / ENGINE EXPERIMENTS
+
+Because apparently normal applications weren't enough.
+
+Experimenting with high-speed chess analysis, engine integration, optimized inference and real-time move suggestions.
+
+```text
+Board Position
+      ↓
+Position Evaluation
+      ↓
+Search
+      ↓
+Best Move
+      ↓
+Opponent: 😐
+Me: 😎
+```
+
+---
+
+# 🧬 `THE_ENGINEERING_PHILOSOPHY`
+
+```text
+               ┌───────────────┐
+               │    IDEA 💡    │
+               └───────┬───────┘
+                       ↓
+               ┌───────────────┐
+               │   DATA 📊     │
+               └───────┬───────┘
+                       ↓
+               ┌───────────────┐
+               │   MODEL 🤖    │
+               └───────┬───────┘
+                       ↓
+               ┌───────────────┐
+               │    API ⚙️     │
+               └───────┬───────┘
+                       ↓
+               ┌───────────────┐
+               │   DOCKER 🐳   │
+               └───────┬───────┘
+                       ↓
+               ┌───────────────┐
+               │ KUBERNETES ☸️ │
+               └───────┬───────┘
+                       ↓
+               ┌───────────────┐
+               │   CLOUD ☁️    │
+               └───────┬───────┘
+                       ↓
+               ┌───────────────┐
+               │   PRODUCTION  │
+               └───────────────┘
+```
+
+### The goal isn't simply to make models.
+
+The goal is to make **systems**.
+
+---
+
+# 💀 `ERROR_LOG`
+
+Some real engineering facts:
+
+```text
+[OK] Python installed
+[OK] Docker running
+[OK] Kubernetes connected
+
+[WARNING] Port already in use
+[WARNING] Container refuses to die
+[WARNING] YAML indentation questionable
+
+[CRITICAL] "It worked yesterday"
+
+[CRITICAL] Forgot environment variable
+
+[CRITICAL] Production database discovered
+
+[INFO] Restarting...
+
+[OK] Fixed by restarting container
+
+[INFO] No one knows why
+```
+
+---
+
+# 🛰️ `CURRENTLY_LOADING...`
+
+```text
+██████████████████████░░░░  88%
+
+[+] Machine Learning
+[+] MLOps
+[+] Cloud Architecture
+[+] Kubernetes
+[+] Distributed Systems
+[+] Model Optimization
+[+] CI/CD
+[+] Production Deployment
+[+] Open Source
+
+[-] Becoming dangerously good at debugging
+[-] Touching grass
+```
+
+---
+
+# 📊 `GITHUB_TELEMETRY`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Satyajit-Mohapatra&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&count_private=true" height="190"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Satyajit-Mohapatra&theme=tokyonight&background=00000000&hide_border=true" height="190"/>
+
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Satyajit-Mohapatra&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=7CFFA2&line=00F0FF&point=FF0055" width="100%" alt="Contribution Graph" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Satyajit-Mohapatra&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=7CFFA2&line=00F0FF&point=FF0055" width="100%"/>
+
 </div>
 
-<hr>
+---
+
+# 🐍 `THE_CONTRIBUTION_MONSTER`
 
 <div align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="120" style="border-radius:50%; box-shadow: 0 0 15px rgba(124, 255, 162, 0.5);">
-  <br><br>
-  <p><b>Engineered for impact by SATYAJIT MOHAPATRA</b></p>
+
+<p><i>Feeding the snake with commits because apparently this is what software engineers do for fun.</i></p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Satyajit-Mohapatra/Satyajit-Mohapatra/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Satyajit-Mohapatra/Satyajit-Mohapatra/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Satyajit-Mohapatra/Satyajit-Mohapatra/output/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
+
+</div>
+
+---
+
+# 🏆 `ACHIEVEMENT_UNLOCKED`
+
+<div align="center">
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Satyajit-Mohapatra&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&column=7"/>
+
+</a>
+
+</div>
+
+---
+
+# 🎮 `CHARACTER_STATS`
+
+```text
+╔════════════════════════════════════════════════════╗
+║                SATYAJIT // BUILD 2026              ║
+╠════════════════════════════════════════════════════╣
+║ Machine Learning    ███████████████░░░  85%         ║
+║ Python              █████████████████░  92%         ║
+║ Cloud               ██████████████░░░░  78%         ║
+║ Docker              ████████████████░░  88%         ║
+║ Kubernetes          █████████████░░░░░  72%         ║
+║ Debugging           ██████████████████  99%         ║
+║ Coffee Consumption  ███████████████████ 100%         ║
+║ Sleep               ██░░░░░░░░░░░░░░░░░  11%       ║
+╚════════════════════════════════════════════════════╝
+```
+
+---
+
+# 🧠 `THINGS_I_ACTUALLY_ENJOY`
+
+```text
+→ Building ML models
+→ Turning models into real applications
+→ Dockerizing literally everything
+→ Making Kubernetes do things
+→ Deploying applications to Azure
+→ Designing scalable systems
+→ Breaking systems
+→ Fixing systems
+→ Learning why I broke the systems
+→ Looking at a successful deployment for 15 minutes
+```
+
+---
+
+# 🧪 `EXPERIMENTAL_LAB`
+
+This section is permanently under construction.
+
+Because apparently one project is never enough.
+
+```text
+┌──────────────────────────────────────────────┐
+│         NEXT EXPERIMENT INITIALIZING...     │
+├──────────────────────────────────────────────┤
+│ 🤖 AI Systems                               │
+│ ☁️ Cloud-Native Applications                │
+│ ⚙️ MLOps Pipelines                           │
+│ ☸️ Kubernetes Architecture                   │
+│ 📈 Intelligent Prediction Systems            │
+│ 🔥 Possibly something completely unnecessary │
+└──────────────────────────────────────────────┘
+```
+
+---
+
+# 📡 `CONNECT_TO_SERVER`
+
+<div align="center">
+
+### Want to build something ridiculous?
+
+<a href="https://www.linkedin.com/in/satyajit-mohapatra/" target="_blank">
+<img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-00F0FF?style=for-the-badge&logo=linkedin&logoColor=000000"/>
+</a>
+
+ 
+
+<a href="mailto:mohapatrasatyajit2006@gmail.com">
+<img src="https://img.shields.io/badge/SEND%20AN%20EMAIL-FF0055?style=for-the-badge&logo=gmail&logoColor=ffffff"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="150"/>
+
+<br>
+
+### `SYSTEM MESSAGE`
+
+> **"The code is temporary. The GitHub flex is eternal."**
+
+<br>
+
+```text
+╔════════════════════════════════════════════════════════╗
+║                  SATYAJIT MOHAPATRA                   ║
+║                                                        ║
+║       MACHINE LEARNING • MLOPS • CLOUD • CHAOS       ║
+║                                                        ║
+║                    STATUS: ONLINE                      ║
+╚════════════════════════════════════════════════════════╝
+```
+
+### ⚡ Built with curiosity.
+
+### ☕ Powered by caffeine.
+
+### 🧠 Debugged through pain.
+
+**Thanks for visiting my little corner of the internet.**
+
 </div>
